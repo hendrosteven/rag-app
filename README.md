@@ -1,5 +1,7 @@
 # RAG Chat App (Node.js + TypeScript + React)
 
+![Tampilan aplikasi RAG Chat](./screenshot.png)
+
 Aplikasi web sederhana untuk upload dokumen (PDF/DOCX/TXT/MD) lalu bertanya
 tentang isinya melalui chat, menggunakan pendekatan Retrieval-Augmented
 Generation (RAG).
